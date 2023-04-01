@@ -9,3 +9,5 @@ print(age_tuple)
 # 字典
 person = {'name':'孙潇','age':22}
 print(person)
+print(type(person))
+
