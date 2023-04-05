@@ -1,4 +1,3 @@
-
 # 使用urllib来获取百度首页的源码
 import urllib.request
 

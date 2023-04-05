@@ -31,7 +31,7 @@ response = urllib.request.urlopen(url)
 # print(response.geturl())
 
 # 获取是一个状态信息
-print(response.getheaders())
+# print(response.getheaders())
 
 # 一个类型 HTTPResponse
 # 六个方法 read  readline  readlines  getcode geturl getheaders
