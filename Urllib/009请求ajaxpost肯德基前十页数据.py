@@ -28,7 +28,7 @@ def get_content(request):
 
 
 def down_load(page,content):
-    with open('kfc_' + str(page) + '.json','w',encoding='utf-8')as fp:
+    with open('009kfc_' + str(page) + '.json','w',encoding='utf-8')as fp:
         fp.write(content)
 
 
