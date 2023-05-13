@@ -34,5 +34,9 @@ response = urllib.request.urlopen(request)
 content = response.read().decode('utf-8')
 
 # 将数据保存到本地
+<<<<<<< HEAD
 with open('011weibo.html', 'w', encoding='utf-8') as fp:
+=======
+with open('011weibo1.html', 'w', encoding='utf-8') as fp:
+>>>>>>> eb4049fe4d181377804664af25be746fc98caae9
     fp.write(content)

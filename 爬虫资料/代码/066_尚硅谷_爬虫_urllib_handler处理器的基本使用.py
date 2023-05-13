@@ -4,10 +4,13 @@
 
 import urllib.request
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> eb4049fe4d181377804664af25be746fc98caae9
 url = 'http://www.baidu.com'
 
 headers = {
